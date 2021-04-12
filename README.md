@@ -1,4 +1,4 @@
-# Digit Recognition Techniques
-## PCA
-## KNN Classifier
-## Bayesian Classifier
+# Digit Recognition Techniques:
+* PCA
+* KNN Classifier
+* Bayesian Classifier
