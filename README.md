@@ -1,4 +1,4 @@
-# Digit Recognition Techniques:
+# Digit Recognition Techniques (WIP):
 * PCA
 * KNN Classifier
 * Bayesian Classifier
