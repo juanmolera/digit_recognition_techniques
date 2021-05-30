@@ -2,3 +2,5 @@
 * PCA
 * KNN Classifier
 * Bayesian Classifier
+* K means
+* Bayesian
